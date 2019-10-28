@@ -236,7 +236,7 @@ class Agent:
 
     def player2(self):
     	#play
-    	xxxx = 0
+    	xxxx = 1
     def player3(self):
     	#play
     	xxxx = 0
